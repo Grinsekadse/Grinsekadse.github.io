@@ -2,9 +2,9 @@
 "companyName": "DefaultCompany",
 "productName": "GDD1_MiniGameV2",
 "productVersion": "0.1",
-"dataUrl": "MartinUnity.data.unityweb",
-"wasmCodeUrl": "MartinUnity.wasm.code.unityweb",
-"wasmFrameworkUrl": "MartinUnity.wasm.framework.unityweb",
+"dataUrl": "Deploy.data.unityweb",
+"wasmCodeUrl": "Deploy.wasm.code.unityweb",
+"wasmFrameworkUrl": "Deploy.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.2.19f1"
+"unityVersion": "2019.4.12f1"
 }
